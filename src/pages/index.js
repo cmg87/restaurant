@@ -2,7 +2,7 @@ import * as React from "react";
 import styled from "styled-components";
 import { StaticImage } from "gatsby-plugin-image";
 import "../styles/global.css";
-import Background from "./background";
+import Background from "../components/background";
 
 const NavbarContainer = styled.nav`
   display: flex;
