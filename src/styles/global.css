@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&family=Playfair+Display+SC:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap');
+
+
+body{
+    margin: auto;
+    font-family: 'Lato', sans-serif;
+font-family: 'Playfair Display SC', serif;
+}
+
+link{
+    text-decoration:none;
+}
+
+a{
+    text-decoration:none;
+    color:inherit;
+}
+
+p,h1,h2,h3,h4,h5,h6{
+    color: #b4b5ba;
+}
